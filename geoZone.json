@@ -1,0 +1,47 @@
+[
+	{
+		"delivery_methods":"空运",
+		"contruc":[
+					{
+						"jiaqian":"1.3",
+					"title":"ABX 普通货 (西马)"
+					},
+					{
+						"jiaqian":"1.3",
+					"title":"ABX 普通货 (西马)"
+					},
+					{
+						"jiaqian":"1.3",
+					"title":"ABX 普通货 (西马)"
+					},
+					{
+						"jiaqian":"1.3",
+					"title":"ABX 普通货 (西马)"
+					}
+		]
+					
+				
+		
+	},
+	{
+		"delivery_methods":"海运",
+		"contruc":[
+					{
+						"jiaqian":"1.3",
+					"title":"ABX 普通货 (西马)"
+					},
+					{
+						"jiaqian":"1.3",
+					"title":"ABX 普通货 (西马)"
+					},
+					{
+						"jiaqian":"1.3",
+					"title":"ABX 普通货 (西马)"
+					},
+					{
+						"jiaqian":"1.3",
+					"title":"ABX 普通货 (西马)"
+					}
+		]
+	}
+]

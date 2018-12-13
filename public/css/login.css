@@ -1,0 +1,18 @@
+.jm_com .jumbotron{
+	padding: 10px 20px;
+}
+.jm_com .jumbotron h5{
+	line-height: 20px;
+}
+.jm_com .jumbotron p a{
+	padding: 5px 8px;
+}
+.right{
+	float: right;
+}
+.red{
+	color: red;
+}
+.green{
+	color: green;
+}
